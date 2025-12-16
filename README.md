@@ -38,5 +38,5 @@ A classic 2-player **Chess Game** developed using **C#** and **Windows Forms (.N
 2.  Click on a piece to select it.
 3.  Click on a valid destination square to move.
 4.  Capture the opponent's King to win!
-
 ---
+*Developed for the University of Piraeus*
