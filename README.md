@@ -22,8 +22,7 @@ A classic 2-player **Chess Game** developed using **C#** and **Windows Forms (.N
     * **2D Arrays:** The board is represented/managed using a coordinate system logic.
     * **Event Handling:** Mouse clicks manage piece selection and movement.
 
-## 📸 Screenshots
-*(Optional: Provide a screenshot of the board here)*
+
 
 ## 📦 How to Run
 
